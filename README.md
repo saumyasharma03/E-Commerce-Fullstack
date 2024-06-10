@@ -31,7 +31,12 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
       <br/>
 # PROJECT SETUP
 
-1. **Clone the repository**
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
    git clone <repository_url>
 
 
