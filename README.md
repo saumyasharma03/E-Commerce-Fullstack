@@ -21,7 +21,7 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
 # TECHNOLOGIES USED:
 
 **FRONTEND:**<br/>
-      - React.js, React-Routed DOM <br/>
+      #^   React.js, React-Routed DOM <br/>
       - Tailwind CSS <br/>
       - Auth0 API <br/>
 **BACKEND:** <br/>
