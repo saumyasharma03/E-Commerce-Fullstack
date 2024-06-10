@@ -29,15 +29,14 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
       * Express.js, Node.js <br/>
       * JWT, Mongoose <br/>
       <br/>
-# PROJECT SETUP
+# REACT + VITE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-@vitejs/plugin-react uses Babel for Fast Refresh
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
-   git clone <repository_url>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. <br/>
+<br/>
+Currently, two official plugins are available:<br/>
+<br/>
+@vitejs/plugin-react uses Babel for Fast Refresh<br/>
+@vitejs/plugin-react-swc uses SWC for Fast Refresh<br/>
 
 
 
