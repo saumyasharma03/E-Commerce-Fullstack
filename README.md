@@ -1,6 +1,9 @@
 # DIGISHOP PLATFORM
 
-DEMO VIDEO:
+# About Digishop
+Digishop is a robust e-commerce platform built with the MERN stack, featuring user authentication, dynamic page rendering, responsive design, and seamless shopping cart functionality. Efficiently developed, tested, and deployed for optimal performance.
+
+# DEMO VIDEO:
 
 https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53-60ad-4f87-9686-5857ed6c613e
 
