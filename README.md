@@ -21,12 +21,14 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
 # TECHNOLOGIES USED:
 
 **FRONTEND:**<br/>
-      #^   React.js, React-Routed DOM <br/>
+      - React.js, React-Routed DOM <br/>
       - Tailwind CSS <br/>
       - Auth0 API <br/>
+      <br/>
 **BACKEND:** <br/>
       * Express.js, Node.js <br/>
       * JWT, Mongoose <br/>
+      <br/>
 # PROJECT SETUP
 
 1. **Clone the repository**
