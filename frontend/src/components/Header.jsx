@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom';
-import logo from "../assets/logo.svg";
+import logo from "../assets/bags.svg";
 import logout from '../assets/logout.svg';
 import user from '../assets/user.svg';
 import { Navbar } from './Navbar';
@@ -36,7 +36,7 @@ const Header = () => {
                             <img src={logout} alt="logouticon" height={19} width={19} />
                             Logout
                         </NavLink> */}
-                        <NavLink to={'logout'} className={"btn_secondary_rounded flexCenter gap-x-2 medium-16"}>
+                        <NavLink to={'login'} className={"btn_secondary_rounded flexCenter gap-x-2 medium-16"}>
                             <img src={user} alt="usericon" height={19} width={19} />
                             Login
                         </NavLink>
