@@ -3,10 +3,6 @@
 # About Digishop
 Digishop is a robust e-commerce platform built with the MERN stack, featuring user authentication, dynamic page rendering, responsive design, and seamless shopping cart functionality. Efficiently developed, tested, and deployed for optimal performance.
 
-# DEMO VIDEO:
-
-https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53-60ad-4f87-9686-5857ed6c613e
-
 # KEY FEATURES
 
 **MERN Stack Development:** Proficient in developing scalable digital shopping platforms using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring smooth functionality and user experience.
@@ -18,6 +14,10 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
 **Dynamic Page Rendering:** Created dynamic pages and links for different product categories such as women, men, and kids, utilizing React.js for efficient rendering and navigation. Ensured smooth transitions between pages for enhanced user engagement.
 
 **Responsive Design:** Designed and implemented responsive user interfaces to ensure optimal viewing and interaction across various devices and screen sizes, enhancing accessibility and usability.
+
+**Real-Time Communication:** Users can initiate video calls and chats instantly, fostering direct interaction for inquiries, support, or consultations.
+
+**WebSocket Integration:** Utilizing WebSockets ensures bi-directional communication channels, enabling efficient data exchange between participants in real-time.
 
 **Database Management:** Utilized MongoDB for database management, ensuring data integrity and reliability. Implemented efficient database querying and indexing techniques for optimal performance.
 
@@ -31,6 +31,7 @@ https://github.com/saumyasharma03/E-Commerce-Fullstack/assets/143929552/77c9fa53
 **BACKEND:** <br/>
       * Express.js, Node.js <br/>
       * JWT, Mongoose <br/>
+      * WebSocket Server, WebRTC<br/>
       <br/>
 # REACT + VITE
 
