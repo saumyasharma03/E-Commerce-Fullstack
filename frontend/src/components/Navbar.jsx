@@ -8,6 +8,7 @@ export const Navbar = ({containerStyles}) => {
         <NavLink to={'/mens'} className={({isActive})=>isActive?"active_link":""}><div className='flexCenter gap-x-1'><MdCategory />Men's</div></NavLink>
         <NavLink to={'/womens'} className={({isActive})=>isActive?"active_link":""}><div className='flexCenter gap-x-1'><MdShop2 />Women's</div></NavLink>
         <NavLink to={'/kids'} className={({isActive})=>isActive?"active_link":""}><div className='flexCenter gap-x-1'><MdContacts />Kid's</div></NavLink>
+        <NavLink to={'/connect'}className={({isActive})=>isActive?"active_link":""}><div className='flexCenter gap-x-1'><MdHomeFilled />Connect Virtual</div></NavLink>
     </nav>
   )
 }

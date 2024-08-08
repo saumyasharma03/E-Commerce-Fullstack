@@ -28,6 +28,7 @@ export default {
      backgroundImage: {
         hero: "url('/src/assets/bgecom.png')",
         banneroffer: "url('/src/assets/banneroffer.png')",
+        bannerx:"url('/src/assets/banneroffer.jpg')",
       },
       screens: {
         xs: '400px',
